@@ -1,4 +1,4 @@
-class Program < Formula
+class Protoman < Formula
     desc "Protoman CLI tool"
     homepage "https://github.com/spotify/protoman"
     url "https://github.com/spotify/protoman/releases/download/0.0.1/protoman-darwin-amd64.zip"
